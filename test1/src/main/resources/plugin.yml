@@ -1,0 +1,4 @@
+name: test1
+version: '${project.version}'
+main: org.exampledf.test1.Test1
+api-version: '1.19'

@@ -1,0 +1,4 @@
+name: test1
+version: '1.0-SNAPSHOT'
+main: org.exampledf.test1.Test1
+api-version: '1.19'
